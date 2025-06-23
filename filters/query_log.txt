@@ -1,0 +1,6 @@
+2025-06-23 19:48:31 | SAFE | testing data
+2025-06-23 19:51:02 | SAFE | test
+2025-06-23 19:51:06 | MALICIOUS | password
+2025-06-23 19:51:09 | SAFE | byr
+2025-06-23 21:45:00 | SAFE | test
+2025-06-23 21:45:03 | MALICIOUS | password
